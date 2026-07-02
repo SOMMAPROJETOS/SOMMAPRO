@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# SOMMA.IO
+# SOMMAPRO
 
 ## Rodar localmente
 npm install
